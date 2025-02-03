@@ -12,7 +12,7 @@ app.use(express.json());
 app.use(cors());
 
 //Database Connection With MongoDB
-mongoose.connect("mongodb+srv://Skyler:skyler5491@cluster0.x050z.mongodb.net/");
+mongoose.connect("");
 
 //API Creation
 
